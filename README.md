@@ -1,6 +1,9 @@
 # db_sample
 
-A new Flutter project.
+メモの様に使えるアプリ。
+
+sqfliteを使用してデータの永久化の練習
+今後SQLiteを使用するときに使えるように練習。
 
 ## Getting Started
 
